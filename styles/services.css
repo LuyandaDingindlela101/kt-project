@@ -1,0 +1,9 @@
+@import url(../styles/main.css);
+
+:root {
+    --color-primary: #FC5130;
+    --color-primary: #E0040B;
+
+    --color-heading: #111111;
+    --color-paragraph: #111111cc; 
+}
